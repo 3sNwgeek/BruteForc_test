@@ -1,5 +1,6 @@
-# BruteForc_test
-暴力破解练习
+# BruteForce_test
+
+暴力破解练习,全部都是工作上遇到的案例，见识到各式各样的开发。
 
 
 level-1_hint:签到题
